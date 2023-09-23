@@ -163,7 +163,7 @@ body{
     .card-footer{
         margin-bottom: -10px;
     }
-    .share-button{
+    .share-button.active{
         position: absolute;
         z-index: 2;
         right: 40px;
